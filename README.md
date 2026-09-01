@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0055-jump-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0283-move-zeroes](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [1927-sum-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Game Theory
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
