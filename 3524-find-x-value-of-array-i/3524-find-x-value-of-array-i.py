@@ -1,30 +1,23 @@
 class Solution:
     def resultArray(self, nums: list[int], k: int) -> list[int]:
-
-        result = [0] * k
-
-        
+        ans = [0] * k
         dp = [0] * k
 
         for num in nums:
-
             num %= k
-
-        
-            new_dp = [0] * k
+            cur = [0] * k
 
             
-            new_dp[num] += 1
+            cur[num] = 1
+
+            
+            for r, count in enumerate(dp):
+                cur[(r * num) % k] += count
 
             
             for r in range(k):
-                new_r = (r * num) % k
-                new_dp[new_r] += dp[r]
+                ans[r] += cur[r]
 
-           
-            for r in range(k):
-                result[r] += new_dp[r]
+            dp = cur
 
-            dp = new_dp
-
-        return result
+        return ans
