@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Combinatorics
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1154-day-of-the-year](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1927-sum-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
