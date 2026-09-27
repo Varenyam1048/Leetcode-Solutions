@@ -1,0 +1,24 @@
+class Solution:
+    def reverseParentheses(self, s: str) -> str:
+        stack =[]
+
+        for ch in s:
+            if ch =='(':
+                stack.append('(')
+
+            elif ch ==')':
+                temp=""
+
+                while stack[-1]!='(':
+                    temp+=stack.pop()
+
+                stack.pop()
+
+                for c in temp:
+                    stack.append(c)
+
+            else:
+                stack.append(ch)
+
+        
+        return''.join(stack)
