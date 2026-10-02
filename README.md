@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [1154-day-of-the-year](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
