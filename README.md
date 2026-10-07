@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0387-first-unique-character-in-a-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0678-valid-parenthesis-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0463-island-perimeter](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
@@ -227,4 +229,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
