@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3524-find-x-value-of-array-i](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1927-sum-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Game Theory
 |  |
 | ------- |
@@ -164,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
