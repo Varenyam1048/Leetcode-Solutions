@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0836-rectangle-overlap](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0326-power-of-three) |
 ## Database
 |  |
 | ------- |
