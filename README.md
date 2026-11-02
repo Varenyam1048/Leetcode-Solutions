@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0283-move-zeroes](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0342-power-of-four) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
