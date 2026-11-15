@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0463-island-perimeter) |
 | [0682-baseball-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1154-day-of-the-year](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1154-day-of-the-year) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0119-pascals-triangle-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3524-find-x-value-of-array-i) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/3364-minimum-positive-sum-subarray) |
