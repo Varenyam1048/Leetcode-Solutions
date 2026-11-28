@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0463-island-perimeter) |
+| [0506-relative-ranks](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0682-baseball-game](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0389-find-the-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0506-relative-ranks](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [0976-largest-perimeter-triangle](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -287,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/0506-relative-ranks) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Varenyam1048/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
